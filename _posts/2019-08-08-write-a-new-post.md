@@ -406,7 +406,6 @@ echo 'No more line numbers!'
 {: .nolineno }
 ````
 
-#### Specifying the Filename
 
 You may have noticed that the code language will be displayed at the top of the code block. If you want to replace it with the file name, you can add the attribute `file` to achieve this:
 
